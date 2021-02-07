@@ -1,5 +1,5 @@
 {
-  "name": "@whalecoiner/find-webmention-links",
+  "name": "@whalecoiner/webmention-find-links",
   "version": "1.0.0",
   "description": "Find all outbound links on a page",
   "main": "index.js",
